@@ -3,5 +3,5 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Raptor-Panel/',
+  base: '/Cryptowave2-0.github.io_Raptor-Panel/',
 })
